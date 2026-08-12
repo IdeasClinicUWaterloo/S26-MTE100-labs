@@ -15,7 +15,7 @@ scopes.
 
 # Required Materials
 
-- 3 Push Button
+- 2 Push Button
 - 2 LEDs
 - 1 Breadboard
 - 2 Resistors (220 Ω)
@@ -38,14 +38,13 @@ Please either partner up with someone, or request an IdeasClinic laptop from the
 
 # Table of Contents
 
-This workshop is broken up into four activities.
+This workshop is broken up into 3 activities.
 Each activity will introduce you to one key concept.
 After you complete each activity, you will have the know how to create your own Pong game.
 
 1. [Background Information](00_background.ipynb)
-2. [Activity 1: Digital Inputs and Outputs](activities/digital_io/tutorial.ipynb)
-3. [Activity 2: Analog Inputs and UART](activities/analog_and_uart/tutorial.ipynb)
-4. [Activity 3: Pulse Width Modulation](activities/pulse_width_modulation/tutorial.ipynb)
+2. [Activity 1: Digital Inputs and Outputs](actvities\01_digital_io_tutorial.ipynb)
+3. [Activity 2: Analog Inputs and UART](actvities\02_analog_and_uart_tutorial.ipynb)
 
 ---
 Next: [Background Information](00_background.ipynb)
