@@ -1,5 +1,6 @@
 
-# Welcome to Lab 01: Introduction to Arduino
+# Welcome to Lab 01
+# Part 1: Introduction to Arduino
 
 # Microcontrollers
 
@@ -39,7 +40,7 @@ Please either partner up with someone, or request an IdeasClinic laptop from the
 
 This workshop is broken up into four activities.
 Each activity will introduce you to one key concept.
-After you complete each activity, you will have the knowhow to create your own Pong game.
+After you complete each activity, you will have the know how to create your own Pong game.
 
 1. [Background Information](00_background.ipynb)
 2. [Activity 1: Digital Inputs and Outputs](activities/digital_io/tutorial.ipynb)
