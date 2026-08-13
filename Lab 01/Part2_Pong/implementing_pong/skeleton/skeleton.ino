@@ -22,7 +22,8 @@ unsigned long  gameTime = 0;
 unsigned long  startTime = 0;
 
 enum GameState {
-  // These are the different game states. In your code, think about what should happen in each state and when to switch between states
+  // Don't worry about game states for now! 
+  // In your own time, how and why you would trigger a new state. Come to the ideasclinic workshop to learn!! 
   PLAYING,
   GAME_OVER
 };
@@ -60,4 +61,10 @@ void loop() {
   // Store button state for button detection
   lastBtnP1 = btnP1;
   lastBtnP2 = btnP2;
+}
+
+void resetGame(){
+  //CHALLENGE
+  // - reset the game! 
+
 }
