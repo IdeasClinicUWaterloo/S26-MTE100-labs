@@ -15,5 +15,5 @@ Show more lines
 
 The two components in this lab are linked below:
 
-1. [Exercise 1: Introduction to Arduino](Part1_Arduino_Introduction\README.md)
-2. [Exercise 2: Make your own pong game](Part2_Pong\README.md)
+1. [Part 1: Introduction to Arduino](/Part1_Arduino_Introduction/README.md)
+2. [Part 2: Make your own pong game](/Part2_Pong/README.md)
