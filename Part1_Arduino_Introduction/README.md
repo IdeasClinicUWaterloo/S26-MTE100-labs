@@ -43,8 +43,8 @@ Each activity will introduce you to one key concept.
 After you complete each activity, you will have the know how to create your own Pong game.
 
 1. [Background Information](00_background.ipynb)
-2. [Activity 1: Digital Inputs and Outputs](actvities\01_digital_io_tutorial.ipynb)
-3. [Activity 2: Analog Inputs and UART](actvities\02_analog_and_uart_tutorial.ipynb)
+2. [Activity 1: Digital Inputs and Outputs](actvities/01_digital_io_tutorial.ipynb)
+3. [Activity 2: Analog Inputs and UART](actvities/02_analog_and_uart_tutorial.ipynb)
 
 ---
 Next: [Background Information](00_background.ipynb)
