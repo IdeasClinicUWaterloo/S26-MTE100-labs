@@ -32,9 +32,8 @@ After you complete each activity, you will have the knowhow to create your own P
 1. [Building the circuit for Pong](00_overview.ipynb)
 2. [Exercise 1: connecting to the screen](exercises/01_connect_to_screen_tutorial.ipynb)
 3. [Exercise 2: button polling](exercises/02_button_polling_tutorial.ipynb)
-4. [Exercise 3: interrupts](exercises/03_interrupts_tutorial.ipynb)
-5. [Exercise 4: time-based functions and how they are implemented under the hood](exercises/04_timer_function_tutorial.ipynb)
-6. [Build your own pong!](implementing_pong/instructions.ipynb)
+4. [Exercise 3: time-based functions and how they are implemented under the hood](exercises/04_timer_function_tutorial.ipynb)
+5. [Build your own pong!](implementing_pong/instructions.ipynb)
 
 ---
 Next: [Building the circuit for Pong](00_overview.ipynb)
